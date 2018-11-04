@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/livescoin/livescoin"
+- "url": "https://github.com/letmeinsi2/livescoin"
   "dir": "livescoin"
 files: []
 script: |
